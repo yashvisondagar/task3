@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "city": "Karmaskaly",
+      "temperature": 49,
+      "humidity": 45,
+      "short": "Patellar biopsy ghtyegtju"
+    },
+    {
+      "id": 2,
+      "city": "Kuleqi",
+      "temperature": 35,
+      "humidity": 30,
+      "short": "C.A.T. scan of abdomen"
+    },
+    {
+      "id": 3,
+      "city": "Guararema",
+      "temperature": 27,
+      "humidity": 44,
+      "short": "Collaterl lig repair NEC"
+    },
+    {
+      "id": 4,
+      "city": "Lovas",
+      "temperature": 48,
+      "humidity": 48,
+      "short": "Cord/epid/vas ops NEC"
+    },
+    {
+      "id": 5,
+      "city": "Haapsalu",
+      "temperature": 46,
+      "humidity": 40,
+      "short": "Insert/replac skull tong"
+    },
+    {
+      "id": 6,
+      "city": "Dolod",
+      "temperature": 60,
+      "humidity": 40,
+      "short": "Nasal les destruct NEC"
+    },
+    {
+      "id": 7,
+      "city": "Mari",
+      "temperature": 56,
+      "humidity": 32,
+      "short": "Proximal pancreatectomy"
+    },
+    {
+      "id": 8,
+      "city": "Talabaan",
+      "temperature": 48,
+      "humidity": 31,
+      "short": "Allogrft bone marrow NOS"
+    },
+    {
+      "id": 9,
+      "city": "Västerås",
+      "temperature": 34,
+      "humidity": 36,
+      "short": "Intravas msmt periph art"
+    },
+    {
+      "id": 10,
+      "city": "Kristiansund N",
+      "temperature": 27,
+      "humidity": 32,
+      "short": "Operations on clitoris"
+    },
+    {
+      "id": 11,
+      "city": "Belo Jardim",
+      "temperature": 41,
+      "humidity": 45,
+      "short": "Removal FB from foot"
+    },
+    {
+      "id": 12,
+      "city": "Hoeryŏng",
+      "temperature": 58,
+      "humidity": 39,
+      "short": "Dx ultrasound-head/neck"
+    },
+    {
+      "id": 13,
+      "city": "El Coco",
+      "temperature": 15,
+      "humidity": 50,
+      "short": "Pnemothorax-lung collaps"
+    },
+    {
+      "id": 14,
+      "city": "Saidpur",
+      "temperature": 60,
+      "humidity": 31,
+      "short": "Bact smear-lower resp"
+    },
+    {
+      "id": 15,
+      "city": "Tawa",
+      "temperature": 19,
+      "humidity": 32,
+      "short": "Ureteral anastomosis NEC"
+    },
+    {
+      "id": 16,
+      "city": "Shishan",
+      "temperature": 16,
+      "humidity": 39,
+      "short": "Other tracheal repair"
+    },
+    {
+      "id": 17,
+      "city": "Shengli",
+      "temperature": 38,
+      "humidity": 39,
+      "short": "Temporary tracheostomy"
+    },
+    {
+      "id": 18,
+      "city": "Danbury",
+      "temperature": 48,
+      "humidity": 33,
+      "short": "Other plastic ops tendon"
+    },
+    {
+      "id": 19,
+      "city": "Saint-Julien-en-Genevois",
+      "temperature": 50,
+      "humidity": 40,
+      "short": "Other suprapu cystostomy"
+    },
+    {
+      "id": 20,
+      "city": "Sofrino",
+      "temperature": 34,
+      "humidity": 50,
+      "short": "Parathyroid reimplant"
+    }
+  ]
+}
